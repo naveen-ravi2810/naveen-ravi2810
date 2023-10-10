@@ -1,4 +1,4 @@
-## I'm Naveen Ravi Chandran 👋
+## I'm Naveen 👋
 
 Greeting to my GITHUB
 
@@ -36,10 +36,12 @@ Greeting to my GITHUB
 <img align="left" alt="TypeScript" width="40px" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg"/>
 <img align="left" alt="AWS" width="40px" src="https://avatars.githubusercontent.com/u/2232217" />
 <img align="left" alt="Docker" width="40px" src="https://w7.pngwing.com/pngs/219/411/png-transparent-docker-logo-kubernetes-microservices-cloud-computing-dockers-logo-text-logo-cloud-computing-thumbnail.png" />
-
 <br/>
+
+<div>
 
 ## Projects
 
 * Working on Full-stack web-application **The Predictor.** That train data in specific models.
 * **Kola**, A full-stack mobile-application. [Repository](https://github.com/naveen-ravi2810/transporter)  
+</div>
