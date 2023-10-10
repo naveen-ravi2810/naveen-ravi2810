@@ -1,4 +1,4 @@
-## I'm Naveen 👋
+## I'm Naveen Ravi Chandran 👋
 
 Greeting to my GITHUB
 
