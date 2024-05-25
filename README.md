@@ -23,6 +23,8 @@ Greeting to my GITHUB
 <img align="left" alt="Python" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />
 <img align="left" alt="Node.js" width="40px" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" />
 <img align="left" alt="Flask" width="40px" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/flask-colored.svg" />
+<img align="left" alt="Fastapi" width="40px" src="https://cdn.worldvectorlogo.com/logos/fastapi.svg" />
+<img align="left" alt="Django" width="40px" src="https://avatars.githubusercontent.com/u/27804?s=280&v=4" />
 <img align="left" alt="mongoDB" width="40px" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mongodb-colored.svg"/>
 <img align="left" alt="mysql" width="40px" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg"/>
 <img align="left" alt="redis" width="40px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTNxNWo4G1zKErjVYtK94Tt71RKaoItdTwxPDdrjMb7XQ&s"/>
